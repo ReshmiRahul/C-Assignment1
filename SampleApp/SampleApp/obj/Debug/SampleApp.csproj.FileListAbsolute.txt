@@ -1,0 +1,8 @@
+D:\NestDigital\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+D:\NestDigital\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+D:\NestDigital\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+D:\NestDigital\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.AssemblyReference.cache
+D:\NestDigital\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.SuggestedBindingRedirects.cache
+D:\NestDigital\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+D:\NestDigital\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+D:\NestDigital\SampleApp\SampleApp\obj\Debug\SampleApp.pdb

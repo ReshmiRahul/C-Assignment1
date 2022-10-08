@@ -1,0 +1,8 @@
+D:\NestDigital\Second_day\Second_day\bin\Debug\Second_day.exe.config
+D:\NestDigital\Second_day\Second_day\bin\Debug\Second_day.exe
+D:\NestDigital\Second_day\Second_day\bin\Debug\Second_day.pdb
+D:\NestDigital\Second_day\Second_day\obj\Debug\Second_day.csproj.AssemblyReference.cache
+D:\NestDigital\Second_day\Second_day\obj\Debug\Second_day.csproj.SuggestedBindingRedirects.cache
+D:\NestDigital\Second_day\Second_day\obj\Debug\Second_day.csproj.CoreCompileInputs.cache
+D:\NestDigital\Second_day\Second_day\obj\Debug\Second_day.exe
+D:\NestDigital\Second_day\Second_day\obj\Debug\Second_day.pdb
